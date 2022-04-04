@@ -1,1 +1,1 @@
-https://github.com/github/training-kit
+[Rferences] (https://github.com/github/training-kit)
