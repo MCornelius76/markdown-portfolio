@@ -1,1 +1,1 @@
-## [References] (https://github.com/github/training-kit)
+[Google] (https://www.google.com)
